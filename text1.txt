@@ -1,0 +1,10 @@
+Cài đặt Visual Studio Code
+Cài đặt Git
+
+Tạo 1 repo mới trên Github
+Các thao tác cơ bản
+
+git add
+git log
+git commit -m ""
+git push
